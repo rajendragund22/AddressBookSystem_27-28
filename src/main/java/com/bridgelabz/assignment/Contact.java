@@ -31,8 +31,7 @@ public class Contact {
         return firstname;
     }
 
-    public void setFirstname(String firstname) //set first name.
-    {
+    public void setFirstname(String firstname) {
         this.firstname = firstname;
     }
 
@@ -40,8 +39,7 @@ public class Contact {
         return lastname;
     }
 
-    public void setLastname(String lastname) //set last name.
-    {
+    public void setLastname(String lastname) {
         this.lastname = lastname;
     }
 
@@ -49,8 +47,7 @@ public class Contact {
         return city;
     }
 
-    public void setCity(String city) //set city.
-    {
+    public void setCity(String city) {
         this.city = city;
     }
 
@@ -58,8 +55,7 @@ public class Contact {
         return state;
     }
 
-    public void setState(String state) //set state.
-    {
+    public void setState(String state) {
         this.state = state;
     }
 
@@ -67,8 +63,7 @@ public class Contact {
         return zipcode;
     }
 
-    public void setZipcode(int zipcode) //set zipcode.
-    {
+    public void setZipcode(int zipcode) {
         this.zipcode = zipcode;
     }
 
@@ -76,8 +71,7 @@ public class Contact {
         return phonenumber;
     }
 
-    public void setPhonenumber(String phonenumber) //set phone number.
-    {
+    public void setPhonenumber(String phonenumber) {
         this.phonenumber = phonenumber;
     }
 
@@ -86,8 +80,7 @@ public class Contact {
 
     }
 
-    public void setEmail(String email) //set email.
-    {
+    public void setEmail(String email) {
         this.email = email;
     }
 
